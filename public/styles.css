@@ -1,8 +1,4 @@
 @import "tailwindcss";
-.test-btn {
-  @apply bg-red-500 text-white p-4;
-}
-
 
 .btn {
   @apply  bg-indigo-500 text-white p-3 hover:bg-indigo-400 hover:-translate-y-0.5  transform focus:outline-none focus:ring active:bg-indigo-900 sm:text-base tracking-wide inline-block  shadow-lg font-semibold uppercase rounded-sm focus:ring-offset-2 focus:ring-opacity-50;
